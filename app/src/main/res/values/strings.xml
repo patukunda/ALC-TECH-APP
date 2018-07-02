@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tech Quiz</string>
+    <string name="question1">1.Wi-Fi is a…</string>
+    <string name="question2">2.What is the function of a home router?</string>
+    <string name="question3">3.An IP address is a numeric quantity that identifies… (Select all correct answers )</string>
+    <string name="question4">4.What is another name for a home network?.</string>
+    <string name="question5">5.A computer must have an IP address when… (Select all correct answers )?.</string>
+    <string name="question6">6.You can make telephone calls over the Internet using a technology called…</string>
+</resources>
